@@ -1,0 +1,188 @@
+{
+  "Logistic Regression": [
+    {
+      "feature": "Contract_Two year",
+      "importance": 1.0225725905510215
+    },
+    {
+      "feature": "Contract_Month-to-month",
+      "importance": 0.848087231382606
+    },
+    {
+      "feature": "tenure_cohort_0-12m",
+      "importance": 0.7822191862587202
+    },
+    {
+      "feature": "InternetService_Fiber optic",
+      "importance": 0.634715526831773
+    },
+    {
+      "feature": "TechSupport_No",
+      "importance": 0.5627827458432776
+    },
+    {
+      "feature": "InternetService_DSL",
+      "importance": 0.5500525548034758
+    },
+    {
+      "feature": "TechSupport_Yes",
+      "importance": 0.4781197738149801
+    },
+    {
+      "feature": "PaymentMethod_Credit card (automatic)",
+      "importance": 0.4161936353721557
+    },
+    {
+      "feature": "StreamingMovies_Yes",
+      "importance": 0.4056321382027744
+    },
+    {
+      "feature": "tenure_cohort_25-48m",
+      "importance": 0.40223557789636094
+    },
+    {
+      "feature": "OnlineSecurity_No",
+      "importance": 0.36569779987793977
+    },
+    {
+      "feature": "PaymentMethod_Electronic check",
+      "importance": 0.337194071470684
+    },
+    {
+      "feature": "StreamingMovies_No",
+      "importance": 0.3209691661744829
+    },
+    {
+      "feature": "OnlineSecurity_Yes",
+      "importance": 0.2810348278496433
+    },
+    {
+      "feature": "charge_difference",
+      "importance": 0.22259830328997493
+    }
+  ],
+  "Random Forest": [
+    {
+      "feature": "charge_difference",
+      "importance": 0.114827206303919
+    },
+    {
+      "feature": "tenure",
+      "importance": 0.08610880464283865
+    },
+    {
+      "feature": "Contract_Month-to-month",
+      "importance": 0.07462990531846994
+    },
+    {
+      "feature": "TechSupport_No",
+      "importance": 0.06731534530185095
+    },
+    {
+      "feature": "TotalCharges",
+      "importance": 0.06377300132087853
+    },
+    {
+      "feature": "MonthlyCharges",
+      "importance": 0.06124474009005503
+    },
+    {
+      "feature": "avg_monthly_charges",
+      "importance": 0.04556864794470341
+    },
+    {
+      "feature": "Contract_Two year",
+      "importance": 0.044387287941411536
+    },
+    {
+      "feature": "InternetService_Fiber optic",
+      "importance": 0.04094939139280588
+    },
+    {
+      "feature": "OnlineSecurity_No",
+      "importance": 0.04043231387758384
+    },
+    {
+      "feature": "tenure_cohort_0-12m",
+      "importance": 0.033733034999268746
+    },
+    {
+      "feature": "TechSupport_Yes",
+      "importance": 0.026017495962045945
+    },
+    {
+      "feature": "PaymentMethod_Electronic check",
+      "importance": 0.022756028284791622
+    },
+    {
+      "feature": "OnlineSecurity_Yes",
+      "importance": 0.01873506918887519
+    },
+    {
+      "feature": "num_services",
+      "importance": 0.015603643027036365
+    }
+  ],
+  "XGBoost": [
+    {
+      "feature": "Contract_Month-to-month",
+      "importance": 0.32057297229766846
+    },
+    {
+      "feature": "InternetService_Fiber optic",
+      "importance": 0.09181201457977295
+    },
+    {
+      "feature": "Contract_Two year",
+      "importance": 0.045349083840847015
+    },
+    {
+      "feature": "TechSupport_No",
+      "importance": 0.04204738512635231
+    },
+    {
+      "feature": "OnlineSecurity_No",
+      "importance": 0.02896795980632305
+    },
+    {
+      "feature": "StreamingTV_Yes",
+      "importance": 0.02762623317539692
+    },
+    {
+      "feature": "PaymentMethod_Electronic check",
+      "importance": 0.025981081649661064
+    },
+    {
+      "feature": "TotalCharges",
+      "importance": 0.019843174144625664
+    },
+    {
+      "feature": "charge_difference",
+      "importance": 0.01979099027812481
+    },
+    {
+      "feature": "Contract_One year",
+      "importance": 0.01847977750003338
+    },
+    {
+      "feature": "PaymentMethod_Bank transfer (automatic)",
+      "importance": 0.01813064143061638
+    },
+    {
+      "feature": "StreamingMovies_No",
+      "importance": 0.017733508720993996
+    },
+    {
+      "feature": "tenure",
+      "importance": 0.01689762808382511
+    },
+    {
+      "feature": "TechSupport_Yes",
+      "importance": 0.016339341178536415
+    },
+    {
+      "feature": "tenure_cohort_25-48m",
+      "importance": 0.016088727861642838
+    }
+  ]
+}
